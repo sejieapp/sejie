@@ -1,0 +1,22 @@
+{
+  "name": "sejienav",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sejieapp/sejie.git"
+  },
+  "keywords": [
+    "sejie"
+  ],
+  "author": "sejie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sejieapp/sejie/issues"
+  },
+  "homepage": "https://github.com/sejieapp/sejie#readme"
+}
